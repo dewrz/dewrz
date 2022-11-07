@@ -4,7 +4,7 @@
 
 <h3>Cybersecurity Projects:</h3>
 • <b>Twitter Open Source Intelligence Data Parser</b><br>
-  <u>- Utilizing Python and the Twitter API for reconnaissance</u>
+  <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance</a>
 
 
 
