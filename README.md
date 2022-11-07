@@ -1,11 +1,14 @@
 <h1>Hi, I'm Daniel!</h1>
-<h2><br/><a href="https://github.com/dewrz/dewrz/">Information Security Student</a></h2>
+<h2><a href="https://github.com/dewrz/dewrz/">Information Security Student</a></h2>
+
 
 <h3>Cybersecurity Projects:</h3>
+• <b>Twitter Open Source Intelligence Data Parser</b><br>
+  <u>- Utilizing Python and the Twitter API for reconnaissance</u>
 
 
 
-<h2>Connect with me:</h2>
+<h4>Connect with me:</h4>
 
 
 
