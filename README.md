@@ -7,7 +7,7 @@
   <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance</a>
   <br>
 • <b>Azure Honeypot</b><br>
-  <a href="">-Using an internet VM with no fireall and open permisions to monitor from Sentinel for SIEM training</a>
+  <a href="https://github.com/dewrz/AzureHoneypot">-Using an internet VM with no fireall and open permisions to monitor from Sentinel for SIEM training</a>
 
 
 
