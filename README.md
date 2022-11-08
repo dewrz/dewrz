@@ -5,7 +5,8 @@
 <h3>Cybersecurity Projects:</h3>
 • <b>Twitter Open Source Intelligence Data Parser</b><br>
   <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance</a>
-• <b>Azure Honeypot<b>
+  <br>
+• <b>Azure Honeypot</b><br>
   <a href="">-Using an internet VM with no fireall and open permisions to monitor from Sentinel for SIEM training</a>
 
 
