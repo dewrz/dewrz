@@ -11,6 +11,12 @@
   <br>
 • <b>File Hasher</b><br>
   <a href="https://github.com/dewrz/File-Hasher">- Using a Python script to hash a file.</a>
+  
+  
+<h3>TryHackMe Modules:</h3>
+• <b>Jr. Pentester Learning Path</b><br>
+Intro to Web Hacking<br>
+-<a href="">Authentication Bypass</a>
 
 
 
