@@ -9,7 +9,7 @@
 • <b>Azure Honeypot</b><br>
   <a href="https://github.com/dewrz/AzureHoneypot">-Using an internet facing VM with no firewall and open permisions to monitor from Sentinel for SIEM training.</a>
   <br>
-• <b>File Hasher</b>
+• <b>File Hasher</b><br>
   <a href="">- Using a Python script to hash a file.</a>
 
 
