@@ -4,14 +4,16 @@
 
 <h3>Cybersecurity Projects:</h3>
 • <b>Twitter Open Source Intelligence Data Parser</b><br>
-  <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance</a>
+  <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance.</a>
   <br>
 • <b>Azure Honeypot</b><br>
-  <a href="https://github.com/dewrz/AzureHoneypot">-Using an internet facing VM with no firewall and open permisions to monitor from Sentinel for SIEM training</a>
+  <a href="https://github.com/dewrz/AzureHoneypot">-Using an internet facing VM with no firewall and open permisions to monitor from Sentinel for SIEM training.</a>
+  <br>
+• <b>File Hasher
+  <a href="">- Using a Python script to hash a file.</a>
 
 
 
-<h4>Connect with me:</h4>
 
 
 
