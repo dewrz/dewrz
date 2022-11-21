@@ -20,6 +20,7 @@
 • <b>Jr. Pentester Learning Path</b><br>
 Intro to Web Hacking<br>
 -<a href="https://github.com/dewrz/TryHackMe-AuthenticationBypass">Authentication Bypass</a>
+-<a href="">IDOR</a>
 
 
 
