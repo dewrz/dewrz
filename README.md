@@ -11,8 +11,11 @@
   <br>
 • <b>File Hasher</b><br>
   <a href="https://github.com/dewrz/File-Hasher">- Using a Python script to hash a file.</a>
+  <br>
+• <b>Python Port Scanner</b><br>
+  <a href="https://github.com/dewrz/PortScanner">- Using a Python script to scan IP addresses for open ports.</a>
   
-  
+
 <h3>TryHackMe Modules:</h3>
 • <b>Jr. Pentester Learning Path</b><br>
 Intro to Web Hacking<br>
