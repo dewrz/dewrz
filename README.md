@@ -20,7 +20,7 @@
 • <b>Jr. Pentester Learning Path</b><br>
 Intro to Web Hacking<br>
 -<a href="https://github.com/dewrz/TryHackMe-AuthenticationBypass">Authentication Bypass</a><br>
--<a href="">Insecure Direct Object Reference</a><br>
+-<a href="https://github.com/dewrz/TryHackMe-IDOR">Insecure Direct Object Reference</a><br>
 
 
 
