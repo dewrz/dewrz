@@ -16,7 +16,7 @@
 <h3>TryHackMe Modules:</h3>
 • <b>Jr. Pentester Learning Path</b><br>
 Intro to Web Hacking<br>
--<a href="">Authentication Bypass</a>
+-<a href="https://github.com/dewrz/TryHackMe-AuthenticationBypass">Authentication Bypass</a>
 
 
 
