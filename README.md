@@ -19,8 +19,8 @@
 <h3>TryHackMe Modules:</h3>
 • <b>Jr. Pentester Learning Path</b><br>
 Intro to Web Hacking<br>
--<a href="https://github.com/dewrz/TryHackMe-AuthenticationBypass">Authentication Bypass</a>
--<a href="">IDOR</a>
+-<a href="https://github.com/dewrz/TryHackMe-AuthenticationBypass">Authentication Bypass</a><br>
+-<a href="">IDOR</a><br>
 
 
 
