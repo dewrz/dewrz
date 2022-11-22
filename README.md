@@ -7,7 +7,7 @@
   <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance.</a>
   <br>
 • <b>Azure Honeypot</b><br>
-  <a href="https://github.com/dewrz/AzureHoneypot">-Using an internet facing VM with no firewall and open permisions to monitor from Sentinel for SIEM training.</a>
+  <a href="https://github.com/dewrz/AzureHoneypot">- Using an internet facing VM with no firewall and open permisions to monitor from Sentinel for SIEM training.</a>
   <br>
 • <b>File Hasher</b><br>
   <a href="https://github.com/dewrz/File-Hasher">- Using a Python script to hash a file.</a>
@@ -19,7 +19,8 @@
 <h3>TryHackMe Modules:</h3>
 • <b>Jr. Pentester Learning Path</b><br>
 Intro to Web Hacking<br>
--<a href="https://github.com/dewrz/TryHackMe-AuthenticationBypass">Authentication Bypass</a><br>
+<a href="https://github.com/dewrz/TryHackMe-AuthenticationBypass">- Authentication Bypass</a><br>
+<a href="https://github.com/dewrz/TryHackMe-FileInclusionChallenge">- File Inclusion Challenge</a><br>
 
 
 
