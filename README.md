@@ -19,7 +19,8 @@
 <h3>TryHackMe Modules:</h3>
 • <b>Cyber Defense Learning Path</b><br>
 Windows Event Logs<br>
-<a href="https://github.com/dewrz/TryHackMe-Xpath">-XPath Queries</a><br>
+<a href="https://github.com/dewrz/TryHackMe-Xpath">- XPath Queries</a><br>
+<a href="">- Putting Theory Into Practice</a><br>
 <br>
 • <b>Jr. Pentester Learning Path</b><br>
 Intro to Web Hacking<br>
