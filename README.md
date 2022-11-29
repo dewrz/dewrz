@@ -22,7 +22,7 @@
 • <b>Cyber Defense Learning Path</b><br>
 Windows Event Logs<br>
 <a href="https://github.com/dewrz/TryHackMe-Xpath">- XPath Queries</a><br>
-Sysmon
+Sysmon<br>
 <a href="">- Practical Investigations</a><br>
 <br>
 • <b>Jr. Pentester Learning Path</b><br>
