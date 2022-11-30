@@ -23,7 +23,7 @@
 Windows Event Logs<br>
 <a href="https://github.com/dewrz/TryHackMe-Xpath">- XPath Queries</a><br>
 Sysmon<br>
-<a href="">- Practical Investigations</a><br>
+<a href="https://github.com/dewrz/TryHackMe-Practical-Investigations">- Practical Investigations</a><br>
 <br>
 • <b>Jr. Pentester Learning Path</b><br>
 Intro to Web Hacking<br>
