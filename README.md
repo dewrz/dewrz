@@ -15,11 +15,10 @@
 • <b>Python Port Scanner</b><br>
   <a href="https://github.com/dewrz/PortScanner">- Using a Python script to scan IP addresses for open ports.</a><br>
 • <b>Tshark</b><br>
-<a href="https://github.com/dewrz/Tshark-ExtractingFiles">- Extracting files from a Pcap</a><br>
+<a href="https://github.com/dewrz/Tshark-ExtractingFiles">- Extracting files from a Pcap.</a><br>
+• <b>Linux Security Investigation</b><br>
+<a href="">- Identifying IoC's and remediating the issues.</a><br>
 <br>
-<h3>PenTest+ Exam Practice</h3><br>
-
-  
 
 <h3>TryHackMe Modules:</h3>
 • <b>Cyber Defense Learning Path</b><br>
