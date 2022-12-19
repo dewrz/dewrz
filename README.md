@@ -17,7 +17,7 @@
 • <b>Tshark</b><br>
 <a href="https://github.com/dewrz/Tshark-ExtractingFiles">- Extracting files from a Pcap.</a><br>
 • <b>Linux Security Investigation</b><br>
-<a href="">- Identifying IoC's and remediating the issues.</a><br>
+<a href="https://github.com/dewrz/Linux-Investigation/blob/main/README.md">- Identifying IoC's and remediating the issues.</a><br>
 <br>
 
 <h3>TryHackMe Modules:</h3>
