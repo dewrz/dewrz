@@ -19,6 +19,9 @@
 • <b>Linux Security Investigation</b><br>
 <a href="https://github.com/dewrz/Linux-Investigation/blob/main/README.md">- Identifying IoC's and remediating the issues.</a><br>
 <br>
+<h3>CYSA+ Exam Practice:</h3>
+• <b>Vulnerability Scan</b><br>
+<a href="">- Setting up the scan account, configuring permissions, setting up OpenVas and viewing the scan</a>
 
 <h3>TryHackMe Modules:</h3>
 • <b>Cyber Defense Learning Path</b><br>
