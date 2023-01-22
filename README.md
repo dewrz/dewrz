@@ -1,7 +1,6 @@
 <h1>Hi, I'm Daniel!</h1>
 <h2><a href="https://github.com/dewrz/dewrz/">Information Security Student</a></h2>
-
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/D3wrz.png?7">
 <h3>Cybersecurity Projects:</h3>
 • <b>Twitter Open Source Intelligence Data Parser</b><br>
   <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance.</a>
