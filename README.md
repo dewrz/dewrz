@@ -1,6 +1,13 @@
 <h1>Hi, I'm Daniel!</h1>
 <h2><a href="https://github.com/dewrz/dewrz/">Information Security Student</a></h2>
 
+<h3>Capture the Flag:</h3>
+
+• <b>CTF: Smag Grotto – Boot to Root</b><br>
+ <a href="https://github.com/dewrz/CTFSmag">- A Web & Linux System Hack</a>
+
+
+
 <h3>Cybersecurity Projects:</h3>
 • <b>Twitter Open Source Intelligence Data Parser</b><br>
   <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance.</a>
