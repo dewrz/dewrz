@@ -5,6 +5,8 @@
 
 • <b>CTF: Wonderland</b><br>
  <a href="https://github.com/dewrz/CTFwonderland">- Compromising a Linux system.</a><br>
+• <b>CTF: Investigating Windows</b><br>
+ <a href="https://github.com/dewrz/CTFInvestigatingWindows">- Investigating Indicators of Compromise on a Windows System</a><br>
 • <b>CTF: Smag Grotto – Boot to Root</b><br>
  <a href="https://github.com/dewrz/CTFSmag">- A Web & Linux System Hack</a><br>
 
