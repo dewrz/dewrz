@@ -5,7 +5,7 @@
 
 <b>Red Team-</b><br>
 <br>
-<b>CTF: VulnNet</b><br>
+• <b>CTF: VulnNet</b><br>
 <a href="https://github.com/dewrz/CTFVulnnet">- LFI, PHP and Linux Misconfigurations</a><br>
 • <b>CTF: Wonderland</b><br>
  <a href="https://github.com/dewrz/CTFwonderland">- Compromising a Linux system.</a><br>
