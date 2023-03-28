@@ -5,6 +5,8 @@
 
 <b>Red Team-</b><br>
 <br>
+• <b>CTF: Jack-of-All-Trades</b><br>
+<a href="https://github.com/dewrz/CTFVulnnet">- Boot-2-Root</a><br>
 • <b>CTF: VulnNet</b><br>
 <a href="https://github.com/dewrz/CTFVulnnet">- LFI, PHP and Linux Misconfigurations</a><br>
 • <b>CTF: Wonderland</b><br>
