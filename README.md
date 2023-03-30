@@ -16,6 +16,8 @@
  
  <b>Blue Team-</b><br>
 <br>
+• <b>CTF: Juicy Details</b><br>
+ <a href="https://github.com/dewrz/CTFInvestigatingWindows">- Log Analysis Post Attack</a><br>
 • <b>CTF: Investigating Windows</b><br>
  <a href="https://github.com/dewrz/CTFInvestigatingWindows">- Investigating Indicators of Compromise on a Windows System</a><br>
  
