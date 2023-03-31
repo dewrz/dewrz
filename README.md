@@ -24,7 +24,7 @@
  <a href="https://github.com/dewrz/CTFInvestigatingWindows">- Investigating Indicators of Compromise on a Windows System</a><br>
  
 <h3>Cybersecurity Projects:</h3>
-• <b>Twitter Open Source Intelligence Data Parser</b><br>
+• <b>Twitter Open Source Intelligence Data Scraper</b><br>
   <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance.</a>
   <br>
 • <b>Azure Honeypot</b><br>
