@@ -17,7 +17,7 @@
  <b>Blue Team-</b><br>
 <br>
 • <b>CTF: h4cked</b><br>
- <a href="https://github.com/dewrz/CTFJuicy/">- A Blue and Red Team Hybrid Challnege</a><br>
+ <a href="https://github.com/dewrz/CTFh4cked/">- A Blue and Red Team Hybrid Challnege</a><br>
 • <b>CTF: Juicy Details</b><br>
  <a href="https://github.com/dewrz/CTFJuicy/">- Log Analysis Post Attack</a><br>
 • <b>CTF: Investigating Windows</b><br>
