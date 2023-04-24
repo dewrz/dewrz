@@ -25,7 +25,7 @@
  
 <h3>Cybersecurity Projects:</h3>
 • <b>Elastic Stack Deployment On A Vnet</b><br>
-  <a href="https://github.com/dewrz/TwitterOSINT">- Installing and Configuring ELK Stack on a Virtual Network</a>
+  <a href="https://github.com/dewrz/Elk-Stack">- Installing and Configuring ELK Stack on a Virtual Network</a>
   <br>
 • <b>Twitter Open Source Intelligence Data Scraper</b><br>
   <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance.</a>
