@@ -24,6 +24,9 @@
  <a href="https://github.com/dewrz/CTFInvestigatingWindows">- Investigating Indicators of Compromise on a Windows System</a><br>
  
 <h3>Cybersecurity Projects:</h3>
+• <b>Elastic Stack Deployment On A V-Network</b><br>
+  <a href="https://github.com/dewrz/TwitterOSINT">- Installing and Configuring ELK Stack oa Virtual Network</a>
+  <br>
 • <b>Twitter Open Source Intelligence Data Scraper</b><br>
   <a href="https://github.com/dewrz/TwitterOSINT">- Utilizing Python and the Twitter API for reconnaissance.</a>
   <br>
