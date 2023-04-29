@@ -24,6 +24,10 @@
  <a href="https://github.com/dewrz/CTFInvestigatingWindows">- Investigating Indicators of Compromise on a Windows System</a><br>
  
 <h3>Cybersecurity Projects:</h3>
+<br>
+• <b>Malware Stager De-Obfuscation</b><br>
+  <a href="https://github.com/dewrz/Elk-Stack">- Decoding Multi-layered Obfuscated Malware</a>
+  <br>
 • <b>Elastic Stack Deployment On A Vnet</b><br>
   <a href="https://github.com/dewrz/Elk-Stack">- Installing and Configuring ELK Stack on a Virtual Network</a>
   <br>
