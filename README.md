@@ -3,7 +3,16 @@
 
 <h3>Capture the Flag:</h3>
 
-<b>Red Team-</b><br>
+<b>Blue Team-</b><br>
+<br>
+• <b>CTF: h4cked</b><br>
+ <a href="https://github.com/dewrz/CTFh4cked/">- A Blue and Red Team Hybrid Challnege</a><br>
+• <b>CTF: Juicy Details</b><br>
+ <a href="https://github.com/dewrz/CTFJuicy/">- Log Analysis Post Attack</a><br>
+• <b>CTF: Investigating Windows</b><br>
+ <a href="https://github.com/dewrz/CTFInvestigatingWindows">- Investigating Indicators of Compromise on a Windows System</a><br>
+ 
+ <b>Red Team-</b><br>
 <br>
 • <b>CTF: Jack-of-All-Trades</b><br>
 <a href="https://github.com/dewrz/CTFJack">- Boot-2-Root</a><br>
@@ -14,16 +23,7 @@
 • <b>CTF: Smag Grotto – Boot to Root</b><br>
  <a href="https://github.com/dewrz/CTFSmag">- A Web & Linux System Hack</a><br>
  
- <b>Blue Team-</b><br>
-<br>
-• <b>CTF: h4cked</b><br>
- <a href="https://github.com/dewrz/CTFh4cked/">- A Blue and Red Team Hybrid Challnege</a><br>
-• <b>CTF: Juicy Details</b><br>
- <a href="https://github.com/dewrz/CTFJuicy/">- Log Analysis Post Attack</a><br>
-• <b>CTF: Investigating Windows</b><br>
- <a href="https://github.com/dewrz/CTFInvestigatingWindows">- Investigating Indicators of Compromise on a Windows System</a><br>
- 
-<h3>Cybersecurity Projects:</h3>
+ <h3>Cybersecurity Projects:</h3>
 <br>
 • <b>Malware Stager De-Obfuscation</b><br>
   <a href="https://github.com/dewrz/Elk-Stack">- Decoding Multi-layered Obfuscated Malware</a>
