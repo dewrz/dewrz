@@ -25,7 +25,7 @@
  
  <h3>Cybersecurity Projects:</h3>
 <br>
-• <b>Malware Stager De-Obfuscation</b><br>
+• <b>Malware Stager Deobfuscation</b><br>
   <a href="https://github.com/dewrz/Malware-Obfuscation">- Decoding Multi-layered Obfuscated Malware</a>
   <br>
 • <b>Elastic Stack Deployment On A Vnet</b><br>
