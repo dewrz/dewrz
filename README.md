@@ -6,7 +6,7 @@
 <b>Blue Team-</b><br>
 <br>
 • <b>CTF: SNORT Basics</b><br>
- <a href="https://github.com/dewrz/CTFh4cked/">- SNORT Rule Writing and PCAP Analysis</a><br>
+ <a href="https://github.com/dewrz/CTF-SNORT">- SNORT Rule Writing and PCAP Analysis</a><br>
 • <b>CTF: h4cked</b><br>
  <a href="https://github.com/dewrz/CTFh4cked/">- A Blue and Red Team Hybrid Challnege</a><br>
 • <b>CTF: Juicy Details</b><br>
