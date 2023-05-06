@@ -5,6 +5,8 @@
 
 <b>Blue Team-</b><br>
 <br>
+• <b>CTF: SNORT Basics</b><br>
+ <a href="https://github.com/dewrz/CTFh4cked/">- SNORT Rule Writing and PCAP Analysis</a><br>
 • <b>CTF: h4cked</b><br>
  <a href="https://github.com/dewrz/CTFh4cked/">- A Blue and Red Team Hybrid Challnege</a><br>
 • <b>CTF: Juicy Details</b><br>
@@ -47,6 +49,8 @@
 • <b>Linux Security Investigation</b><br>
 <a href="https://github.com/dewrz/Linux-Investigation/blob/main/README.md">- Identifying IoC's and remediating the issues.</a><br>
 <br>
+
+
 <h3>TryHackMe Modules:</h3>
 • <b>Cyber Defense Learning Path</b><br>
 Windows Event Logs<br>
