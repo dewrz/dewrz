@@ -6,8 +6,8 @@
 <b>Blue Team-</b><br>
 <br>
 • <b>CTF: Splunk-BOSS OF THE SOC v3</b><br>
+ <a href="https://github.com/dewrz/Splunk-AWS-WINEvent">- AWS S3 Bucket & WINEvent Log Challenge</a><br>
  <a href="https://github.com/dewrz/Splunk-Web-One">- Webserver & Compromised OneDrive Challenge</a><br>
-  <a href="https://github.com/dewrz/Splunk-Web-One">- AWS S3 Bucket & WINEvent Log Challenge</a><br>
 • <b>CTF: SNORT Basics</b><br>
  <a href="https://github.com/dewrz/CTF-SNORT">- SNORT Rule Writing and PCAP Analysis</a><br>
 • <b>CTF: h4cked</b><br>
