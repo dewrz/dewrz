@@ -33,7 +33,7 @@
 • <b>Malware Stager Deobfuscation</b><br>
   <a href="https://github.com/dewrz/Malware-Obfuscation">- Decoding Multi-layered Obfuscated Malware</a>
   <br>
-• <b>Elastic Stack Deployment On A Vnet</b><br>
+• <b>Elastic Stack Deployment On A VLAN</b><br>
   <a href="https://github.com/dewrz/Elk-Stack">- Installing and Configuring ELK Stack on a Virtual Network</a>
   <br>
 • <b>Twitter Open Source Intelligence Data Scraper</b><br>
