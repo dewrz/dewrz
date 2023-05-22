@@ -5,6 +5,8 @@
 
 <b>Blue Team-</b><br>
 <br>
+• <b>CTF: Warzone 1</b><br>
+ <a href="https://github.com/dewrz/Splunk-AWS-WINEvent">- Network Traffic Analysis with Brim and Wireshark</a><br>
 • <b>CTF: Splunk-BOSS OF THE SOC v3</b><br>
  <a href="https://github.com/dewrz/Splunk-AWS-WINEvent">- AWS S3 Bucket & WINEvent Log Challenge</a><br>
  <a href="https://github.com/dewrz/Splunk-Web-One">- Webserver & Compromised OneDrive Challenge</a><br>
