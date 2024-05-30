@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel!</h1>
+
 <h2><a href="https://github.com/dewrz/dewrz/">Information Security Technologist and Hacking Enthusiast</a></h2>
 
 <h3>Capture the Flag:</h3>
