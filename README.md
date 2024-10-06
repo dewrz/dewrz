@@ -8,9 +8,9 @@
 • <b>CTF: 10/06/2024</b><br>
 
 
-<h4>2021-2022</h4>
+
 <hr>                                                                                                       </hr>
-<b>Blue Team-</b><br>
+<b>Blue Team-</b>  <h4>2021-2022</h4><br>
 <br>
 • <b>CTF: Warzone 1</b><br>
  <a href="https://github.com/dewrz/Warzone1">- Network Traffic Analysis with Brim and Wireshark</a><br>
