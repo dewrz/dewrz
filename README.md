@@ -1,5 +1,5 @@
 
-<h2><a href="https://github.com/dewrz/dewrz/">Information Security Technologist and Hacking Enthusiast</a></h2>
+<h2><a href="https://github.com/dewrz/dewrz/">Cybersecurity and Information Assurance Analyst</a></h2>
 
 <h3>Capture the Flag:</h3>
 
