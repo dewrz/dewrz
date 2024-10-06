@@ -10,7 +10,7 @@
 
 
 <hr>                                                                                                       </hr>
-<b>Blue Team-</b>  <h4>2021-2022</h4><br>
+<b>Blue Team-</b>  <h4>2021-2022</h4>
 • <b>CTF: Warzone 1</b><br>
  <a href="https://github.com/dewrz/Warzone1">- Network Traffic Analysis with Brim and Wireshark</a><br>
 • <b>CTF: Splunk-BOSS OF THE SOC v3</b><br>
