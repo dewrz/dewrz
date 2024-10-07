@@ -6,6 +6,7 @@
 <h4>Update: 10/2024</h4>
 <hr>                                                                                                       </hr>
 • <b>CTF: 10/06/2024</b><br>
+<a href="https://github.com/dewrz/10_06/blob/main/README.md">Walkthrough</a>
 
 
 
